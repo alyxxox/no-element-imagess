@@ -8,4 +8,5 @@ app.element.io,app.element.io##.mx_MVideoBody_container
 app.element.io,app.element.io##li.mx_EventTile_lastInSection.mx_EventTile_12hr.mx_EventTile > .mx_EventTile_image.mx_EventTile_mediaLine.mx_EventTile_line > .sc_MImageBody_container > .mx_MImageBody > [href] > .mx_MImageBody_thumbnail_container
 app.element.io,app.element.io##.mx_EventTile_image.mx_EventTile_mediaLine.mx_EventTile_line
 app.element.io,app.element.io##.mx_MImageReplyBody
-@@||buyvm.chat/_matrix/media/r0/thumbnail/*/*width=100&height=100&method=scale$image,domain=app.schildi.chat,app.element.io
+@@||buyvm.chat/_matrix/media/r0/thumbnail/*/*width=100&height=100&method=scale$image,domain=app.schildi.chat
+@@||buyvm.chat/_matrix/media/r0/thumbnail/*/*width=100&height=100&method=scale$image,domain=app.element.io
